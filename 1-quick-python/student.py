@@ -22,3 +22,8 @@ class student():
     name = 'Undefined'
     Math_score = None
     Chinese_score = None
+    
+    2
+    3
+    3
+    
